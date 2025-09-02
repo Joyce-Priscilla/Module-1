@@ -11,8 +11,8 @@ To write a Python program to print the following integer literals: 123, 456, 789
 
 ## PROGRAM
 ```python
-# Reg.No-
-# Name-
+# Reg.No-212223060107
+# Name-Joyce Priscilla.R
 # Write your code here
 
 num1 = 123
@@ -26,4 +26,7 @@ print(num3)
 ```
 ## OUTPUT
 
+![Screenshot 2025-09-02 141414](https://github.com/user-attachments/assets/50f5c207-dba5-4e3a-a952-8a82aadb42e0)
+
 ## RESULT
+Thus a Python program to print the following integer literals: 123, 456, 789 has been executed successfully.
